@@ -1,2 +1,4 @@
 # hello-world
-  Testing for new git feature
+  Dear Visiter,
+    Wish a good day!
+  
